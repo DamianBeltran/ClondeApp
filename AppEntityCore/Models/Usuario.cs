@@ -24,6 +24,8 @@ namespace AppEntityCore.Models
         public int DetalleUsuarioId { get; set; }
         public DetalleUsuario? DetalleUsuario { get; set; }
 
+        // hola usuario
+
     }
 
 }
